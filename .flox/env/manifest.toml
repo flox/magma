@@ -1,0 +1,8 @@
+version = 1
+
+[install]
+git.pkg-path = "git"
+
+[options]
+systems = ["aarch64-linux", "x86_64-linux"]
+cuda-detection = false
