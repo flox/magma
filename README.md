@@ -1,4 +1,4 @@
-# build-magma
+# magma
 
 GPU-architecture-specific MAGMA 2.9.0 static libraries for CUDA 12.9, built with [Flox](https://flox.dev).
 
